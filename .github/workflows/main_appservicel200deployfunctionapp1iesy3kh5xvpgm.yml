@@ -39,5 +39,5 @@ jobs:
         app-name: 'appservicel200deployfunctionapp1iesy3kh5xvpgm'
         slot-name: 'production'
         package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_37e6e8b52b8c47cba828fc050a1e75d1 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_249c7a9d37114889aea228860c090bc9 }}
   
